@@ -1,4 +1,4 @@
-# Preparation Guide for Sequential Gaussian Variational Inference for Nonlinear State Estimation and Its Application in Robot Navigation
+# Sequential Gaussian Variational Inference for Nonlinear State Estimation and Its Application in Robot Navigation
 
 Welcome to the repository for implementing Sequential Gaussian Variational Inference (S-GVI) algorithms. Our work has been accepted by *IEEE Robotics and Automation Letters (RA-L)* and will be published soon. We are organizing the code for public sharing and will update this repository shortly.
 
